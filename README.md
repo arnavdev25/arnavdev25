@@ -1,4 +1,4 @@
-<img src="https://th.bing.com/th/id/OIP.dSQXoAdrGjKQbSUYPAuOzQHaEK?pid=ImgDet&rs=1"/>
+<img src="https://user-images.githubusercontent.com/98902869/172826702-291b2d37-18f5-4bde-b37e-8884804e0a45.png"/>
 <h1 align="center">Hi 👋, I'm Muskan</h1>
 <h3 align="center">Full Stack Web Developer & A Fast Learner</h3>
 
