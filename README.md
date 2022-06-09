@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/C4D16AQENgFLocGaXoA/profile-displaybackgroundimage-shrink_350_1400/0/1653844697005?e=1659571200&v=beta&t=PnP6inzOwDg1c9nfKvk_DWcBptex67p_foPTs-_gA1U"/>
+<img src="https://th.bing.com/th/id/OIP.dSQXoAdrGjKQbSUYPAuOzQHaEK?pid=ImgDet&rs=1"/>
 <h1 align="center">Hi 👋, I'm Muskan</h1>
 <h3 align="center">Full Stack Web Developer & A Fast Learner</h3>
 
