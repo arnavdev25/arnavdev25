@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muskan2507" alt="muskan2507" /></a> </p>
 
-- 🔭 I’m currently working on **backend**
+- 🔭 I’m currently working on **MERn Stack**
 
-- 🌱 I’m currently learning **MongoDB, Express**
+- 🌱 I’m currently learning **My SQL Dtabase**
 
 - 👨‍💻 All of my projects are available at [https://fascinating-cupcake-e0d36b.netlify.app/](https://fascinating-cupcake-e0d36b.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@princesahil0065](https://medium.com/@princesahil0065)
 
-- 💬 Ask me about **HTML, CSS, JS, React, Redux, TypeScript**
+- 💬 Ask me about **HTML, CSS, JS, React, Redux, TypeScript, Next JS, Node, Express, MongoDB, Python, Bootstrap, Tailwind**
 
 - 📫 How to reach me **princesahil0065@gmail.com**
 
