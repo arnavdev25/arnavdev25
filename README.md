@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Arnav</h1>
 <h3 align="center">Full Stack Web Developer & A Fast Learner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muskan2507&label=Profile%20views&color=0e75b6&style=flat" alt="muskan2507" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muskan2507" alt="muskan2507" /></a> </p>
-
 - 🔭 I’m currently working on **MERN Stack**
 
 - 🌱 I’m currently learning **My SQL Dtabase**
