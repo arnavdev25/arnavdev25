@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muskan2507" alt="muskan2507" /></a> </p>
 
-- 🔭 I’m currently working on **MERn Stack**
+- 🔭 I’m currently working on **MERN Stack**
 
 - 🌱 I’m currently learning **My SQL Dtabase**
 
